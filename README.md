@@ -3,16 +3,16 @@ This project implements a Mixed-Integer Linear Programming (MILP) controller for
 
 💼 Portfolio Highlights
 
-Developed a Mixed-Integer Linear Programming (MILP) optimization model for hybrid microgrid energy management in MATLAB.
+**Developed a Mixed-Integer Linear Programming (MILP) optimization model for hybrid microgrid energy management in MATLAB**.
 
-Integrated PV, Wind, BESS, and EV (V2G) into a cost-minimization framework with dynamic tariff adaptation.
+**Integrated PV, Wind, BESS, and EV (V2G) into a cost-minimization framework with dynamic tariff adaptation**.
 
-Implemented binary decision variables for EV availability and charging/discharging scheduling.
+**Implemented binary decision variables for EV availability and charging/discharging scheduling**.
 
-Designed dynamic SOC constraints ensuring EV readiness during user-defined “ready hours.”
+**Designed dynamic SOC constraints ensuring EV readiness during user-defined “ready hours.""**
 
-Achieved ~22% cost reduction vs rule-based logic and ~88% self-sufficiency across 24-hour operation.
+**Achieved ~22% cost reduction vs rule-based logic and ~88% self-sufficiency across 24-hour operation.**
 
-Automated visualization and KPI computation for performance evaluation and publication-quality plots.
+**Automated visualization and KPI computation for performance evaluation and publication-quality plots.**
 
-Research presented at IEEE PESS 2025 (TU Munich)
+**Research presented at IEEE PESS 2025 (TU Munich)**

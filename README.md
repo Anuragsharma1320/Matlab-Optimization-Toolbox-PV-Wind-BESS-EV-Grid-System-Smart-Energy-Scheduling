@@ -1,0 +1,2 @@
+# Matlab-Optimization-Toolbox-PV-Wind-BESS-EV-Grid-System-Smart-Energy-Scheduling
+This project implements a Mixed-Integer Linear Programming (MILP) controller for optimal energy dispatch in a renewable-based microgrid. It schedules power flows between PV, Wind, BESS, EV (V2G), and the grid to minimize operational cost while maintaining SOC constraints, EV availability, and renewable integration targets.
